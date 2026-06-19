@@ -8,7 +8,7 @@ export default function HomePage() {
     <>
       {/* Hero */}
       <section className="mb-16">
-        <h1 className="text-3xl sm:text-4xl font-bold tracking-tight text-zinc-900 dark:text-zinc-50">
+        <h1 className="text-3xl sm:text-4xl font-bold tracking-tight text-zinc-900">
           LokiTank&apos;s Blog
         </h1>
         <p className="mt-3 text-base text-zinc-500 dark:text-zinc-400 max-w-[65ch] leading-relaxed">
